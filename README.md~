@@ -5,7 +5,3 @@ The purpose of this cgi script is to write a Gale Shapley deferred acceptance al
 # Example
 
 A running version of the code is <a href="http://matching-gs.host-ed.me/cgi-bin/advisor_matching_cgi.py">here</a>.
-
-# File details
-
-The filename __advisor_matching_cgi.py__ is the main file that calls the other one when executed.
